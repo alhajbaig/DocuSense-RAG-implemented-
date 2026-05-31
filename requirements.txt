@@ -1,9 +1,10 @@
 streamlit
-langchain-community
+langchain-community>=0.2.4
 langchain-core
 langchain-text-splitters
 langchain-groq
 langchain-huggingface
 duckduckgo-search
+ddgs
 pypdf
 sentence-transformers
