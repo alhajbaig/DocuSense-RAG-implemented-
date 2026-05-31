@@ -1,6 +1,9 @@
-langchain==0.3.0
-langchain-community==0.3.0
-langchain-core==0.3.0
-langchain-openai==0.3.0
-pypdf==5.1.0
-streamlit==1.38.0
+streamlit
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+duckduckgo-search
+pypdf
+sentence-transformers
